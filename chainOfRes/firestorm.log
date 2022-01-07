@@ -117,3 +117,10 @@ INFO main com.concurrent.chainOfRes.AppTest - 测试结果：模拟二级负责�
 INFO main com.concurrent.chainOfRes.AppTest - 测试结果：{"code":"0001","info":"单号：1000998004813441 状态：待一级审批负责人 段总"}
 INFO main com.concurrent.chainOfRes.AppTest - 测试结果：模拟一级负责人审批，段总
 INFO main com.concurrent.chainOfRes.AppTest - 测试结果：审批完成
+INFO main com.concurrent.chainOfRes.AppTest - 测试结果：{"code":"0001","info":"单号：1000998004813441 状态：待三级审批负责人 王工"}
+INFO main com.concurrent.chainOfRes.AppTest - 测试结果：模拟三级负责人审批，王工
+INFO main com.concurrent.chainOfRes.AppTest - 测试结果：{"code":"0001","info":"单号：1000998004813441 状态：待二级审批负责人 张经理"}
+INFO main com.concurrent.chainOfRes.AppTest - 测试结果：模拟二级负责人审批，张经理
+INFO main com.concurrent.chainOfRes.AppTest - 测试结果：{"code":"0001","info":"单号：1000998004813441 状态：待一级审批负责人 段总"}
+INFO main com.concurrent.chainOfRes.AppTest - 测试结果：模拟一级负责人审批，段总
+INFO main com.concurrent.chainOfRes.AppTest - 测试结果：{"code":"0000","info":"单号：1000998004813441 状态：一级审批完成负责人 时间：2022-01-06 10:00:21 审批人：段总"}

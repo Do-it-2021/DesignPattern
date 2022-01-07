@@ -21,10 +21,9 @@ import com.concurrent.chain_mod.Level3AuthLink;
  */
 public class AppTest 
 {
-	
 	private Logger logger = LoggerFactory.getLogger(AppTest.class);
 	
-    @Test
+   /* @Test
     public void test_AuthController() throws ParseException {
     	
     	AuthController authController = new AuthController();
@@ -47,9 +46,9 @@ public class AppTest
         logger.info("测试结果：{}", "审批完成");
     	
     	
-    }
+    }*/
     
-    /*@Test
+    @Test
     public void test_AuthLink() throws ParseException {
     	
     	  AuthLink authLink = new Level3AuthLink("1000013", "王工")
@@ -73,5 +72,5 @@ public class AppTest
           logger.info("测试结果：{}", "模拟一级负责人审批，段总");
           logger.info("测试结果：{}", JSON.toJSONString(authLink.doAuth("小傅哥", "1000998004813441", new Date())));
     	
-    }*/
+    }
 }

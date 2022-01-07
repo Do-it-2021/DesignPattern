@@ -1,0 +1,4 @@
+INFO main com.concurrent.commond.Xiaoer - 菜单：{1:"广东厨师，烹饪鲁菜，宫廷最大菜系，以孔府风味为龙头",2:"江苏厨师，烹饪苏菜，宫廷第二大菜系，古今国宴上最受人欢迎的菜系。",3:"山东厨师，烹饪鲁菜，宫廷最大菜系，以孔府风味为龙头.",4:"四川厨师，烹饪川菜，中国最有特色的菜系，也是民间最大菜系。"}
+INFO main com.concurrent.commond_mod.LuCook - 鲁菜师傅,正宗鲁菜
+INFO main com.concurrent.commond_mod.LuCook - 川菜师傅,正宗川菜
+INFO main com.concurrent.commond_mod.GuangdongCook - 广东厨师，广式点心
