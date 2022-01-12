@@ -1,0 +1,10 @@
+INFO main com.concurrent.medium.JDBCUtil - 测试结果 姓名：ttt 年龄：12
+INFO main com.concurrent.medium.AppTest - 测试结果：null
+INFO main com.concurrent.medium.AppTest - 测试结果：null
+INFO main com.concurrent.medium.AppTest - 测试结果：null
+INFO main com.concurrent.medium.AppTest - 测试结果：null
+INFO main com.concurrent.medium.AppTest - 测试结果：null
+INFO main com.concurrent.medium.AppTest - 测试结果：{"age":18,"createTime":1576944000000,"id":1,"name":"水水","updateTime":1576944000000}
+INFO main com.concurrent.medium.AppTest - 测试结果：{"age":18,"createTime":1576944000000,"id":1,"name":"水水","updateTime":1576944000000}
+INFO main com.concurrent.medium.AppTest - 测试结果：[{"age":18,"createTime":1576944000000,"id":1,"name":"水水","updateTime":1576944000000},{"age":18,"createTime":1576944000000,"id":2,"name":"豆豆","updateTime":1576944000000}]
+INFO main com.concurrent.medium.AppTest - 测试结果：{"age":18,"createTime":1576944000000,"id":1,"name":"水水","updateTime":1576944000000}
