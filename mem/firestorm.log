@@ -1,0 +1,8 @@
+INFO main com.concurrent.mem.AppTest - 历史配置(回滚)undo：{"content":"配置内容C=哈哈呵呵","dateTime":1642065855862,"operator":"小哥","versionNo":"1000003"}
+INFO main com.concurrent.mem.AppTest - 历史配置(回滚)undo：{"content":"配置内容C=哈哈呵呵","dateTime":1642065923409,"operator":"小哥","versionNo":"1000003"}
+INFO main com.concurrent.mem.AppTest - 历史配置(前进)redo：{"content":"配置内容C=哈哈呵呵","dateTime":1642065923409,"operator":"小哥","versionNo":"1000003"}
+INFO main com.concurrent.mem.AppTest - 历史配置(获取)get：{"content":"配置内容B=呵呵","dateTime":1642065923409,"operator":"小哥","versionNo":"1000002"}
+INFO main com.concurrent.mem.AppTest - 历史配置(回滚)undo：{"content":"配置内容C=哈哈呵呵","dateTime":1642066038147,"operator":"小哥","versionNo":"1000003"}
+INFO main com.concurrent.mem.AppTest - 历史配置(回滚)undo：{"content":"配置内容B=呵呵","dateTime":1642066038147,"operator":"小哥","versionNo":"1000002"}
+INFO main com.concurrent.mem.AppTest - 历史配置(前进)redo：{"content":"配置内容C=哈哈呵呵","dateTime":1642066038147,"operator":"小哥","versionNo":"1000003"}
+INFO main com.concurrent.mem.AppTest - 历史配置(获取)get：{"content":"配置内容B=呵呵","dateTime":1642066038147,"operator":"小哥","versionNo":"1000002"}
