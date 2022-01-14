@@ -1,0 +1,84 @@
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148636860,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148689995,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148696833,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148703071,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148707468,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148716070,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148720637,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148725083,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148729660,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148735183,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148741442,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148746734,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148756820,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148761718,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148768925,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148779557,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148800432,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148806922,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148810407,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148814378,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148817631,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148843056,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148888854,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148900887,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109876 发送短信通知(短信)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109876 摇号结果(MQ)：很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148906352,"msg":"很遗憾，编码2765789109876在本次摇号未中签或摇号资格已过期","uId":"2765789109876"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109874 发送短信通知(短信)：很遗憾，编码2765789109874在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109874 摇号结果(MQ)：很遗憾，编码2765789109874在本次摇号未中签或摇号资格已过期
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148918930,"msg":"很遗憾，编码2765789109874在本次摇号未中签或摇号资格已过期","uId":"2765789109874"}
+INFO main com.concurrent.observe.LotteryServiceImpl - 给用户 2765789109875 发送短信通知(短信)：恭喜你,编码2765789109875在本次摇号中签
+INFO main com.concurrent.observe.LotteryServiceImpl - 记录用户 2765789109875 摇号结果(MQ)：恭喜你,编码2765789109875在本次摇号中签
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642148926766,"msg":"恭喜你,编码2765789109875在本次摇号中签","uId":"2765789109875"}
+INFO main com.concurrent.observe_mod.event.listener.MqEventListener - 记录用户 2765789109875 摇号结果(MQ)：恭喜你,编码2765789109875在本次摇号中签
+INFO main com.concurrent.observe_mod.event.listener.MessageEventListener - 给用户 2765789109875 发送短信通知(短信)：恭喜你,编码2765789109875在本次摇号中签
+INFO main com.concurrent.observe.AppTest - 测试结果：{"dateTime":1642152963092,"msg":"恭喜你,编码2765789109875在本次摇号中签","uId":"2765789109875"}
