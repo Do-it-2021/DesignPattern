@@ -1,0 +1,10 @@
+INFO main com.concurrent.stateMod.AppTest - 测试结果(编辑中To审核拒绝)：{"code":"0001","info":"变更状态拒绝"}
+INFO main com.concurrent.stateMod.AppTest - 测试结果(编辑中To提交审核)：{"code":"0000","info":"变更状态成功"}
+INFO main com.concurrent.stateMod.AppTest - 测试结果(拒绝To撤审)：{"code":"0000","info":"撤销审核完成"}
+INFO main com.concurrent.stateMod.AppTest - 活动信息：{"activityId":"100001","activityName":"早起学习打卡领奖活动","beginTime":1642473819702,"endTime":1642473819702,"status":"Editing"} 状态："Editing"
+INFO main com.concurrent.stateMod.AppTest - 测试结果(编辑中To提审活动)：{"code":"0000","info":"活动提审成功"}
+INFO main com.concurrent.stateMod.AppTest - 活动信息：{"activityId":"100001","activityName":"早起学习打卡领奖活动","beginTime":1642473819710,"endTime":1642473819710,"status":"Check"} 状态："Check"
+INFO main com.concurrent.stateMod.AppTest - 测试结果(拒绝To活动中)：{"code":"0001","info":"审核拒绝不可执行活动为进行中"}
+INFO main com.concurrent.stateMod.AppTest - 活动信息：{"activityId":"100001","activityName":"早起学习打卡领奖活动","beginTime":1642473819710,"endTime":1642473819710,"status":"Refuse"} 状态："Refuse"
+INFO main com.concurrent.stateMod.AppTest - 测试结果(编辑中To开启活动)：{"code":"0001","info":"非关闭活动不可开启"}
+INFO main com.concurrent.stateMod.AppTest - 活动信息：{"activityId":"100001","activityName":"早起学习打卡领奖活动","beginTime":1642473819710,"endTime":1642473819710,"status":"Editing"} 状态："Editing"
