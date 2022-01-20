@@ -1,0 +1,12 @@
+INFO main com.concurrent.template.NetMall - 模拟京东用户登录 uId：1000001 uPwd：*******
+INFO main com.concurrent.template.NetMall - 模拟京东商品爬虫解析：【AppleiPhone 11】Apple iPhone 11 (A2223) 128GB 黑色 移动联通电信4G手机 双卡双待【行情 报价 价格 评测】-京东 | 5999.00 元 https://item.jd.com/100008348542.html
+INFO main com.concurrent.template.NetMall - 模拟生成京东商品base64海报
+INFO main com.concurrent.template.AppTest - 测试结果：eyJwcmljZSI6IjU5OTkuMDAiLCJuYW1lIjoi44CQQXBwbGVpUGhvbmUgMTHjgJFBcHBsZSBpUGhv
+bmUgMTEgKEEyMjIzKSAxMjhHQiDpu5HoibIg56e75Yqo6IGU6YCa55S15L+hNEfmiYvmnLog5Y+M
+5Y2h5Y+M5b6F44CQ6KGM5oOFIOaKpeS7tyDku7fmoLwg6K+E5rWL44CRLeS6rOS4nCJ9
+INFO main com.concurrent.template.NetMall - 模拟京东用户登录 uId：1000001 uPwd：*******
+INFO main com.concurrent.template.NetMall - 模拟京东商品爬虫解析：【AppleiPhone 11】Apple iPhone 11 (A2223) 128GB 黑色 移动联通电信4G手机 双卡双待【行情 报价 价格 评测】-京东 | 5999.00 元 https://item.jd.com/100008348542.html
+INFO main com.concurrent.template.NetMall - 模拟生成京东商品base64海报
+INFO main com.concurrent.template.AppTest - 测试结果：eyJwcmljZSI6IjU5OTkuMDAiLCJuYW1lIjoi44CQQXBwbGVpUGhvbmUgMTHjgJFBcHBsZSBpUGhv
+bmUgMTEgKEEyMjIzKSAxMjhHQiDpu5HoibIg56e75Yqo6IGU6YCa55S15L+hNEfmiYvmnLog5Y+M
+5Y2h5Y+M5b6F44CQ6KGM5oOFIOaKpeS7tyDku7fmoLwg6K+E5rWL44CRLeS6rOS4nCJ9

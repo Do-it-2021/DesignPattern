@@ -1,0 +1,20 @@
+INFO main com.concurrent.visitor.AppTest - 
+家长视角访问：
+INFO main com.concurrent.visitor.visitor.impl.Parent - 学生信息 姓名：谢飞机 班级：一年一班 排名：78
+INFO main com.concurrent.visitor.visitor.impl.Parent - 学生信息 姓名：windy 班级：一年一班 排名：80
+INFO main com.concurrent.visitor.visitor.impl.Parent - 学生信息 姓名：大毛 班级：二年三班 排名：90
+INFO main com.concurrent.visitor.visitor.impl.Parent - 学生信息 姓名：Shing 班级：三年四班 排名：75
+INFO main com.concurrent.visitor.visitor.impl.Parent - 老师信息 姓名：BK 班级：一年一班 级别：特级教师
+INFO main com.concurrent.visitor.visitor.impl.Parent - 老师信息 姓名：娜娜Goddess 班级：一年一班 级别：特级教师
+INFO main com.concurrent.visitor.visitor.impl.Parent - 老师信息 姓名：dangdang 班级：二年三班 级别：普通教师
+INFO main com.concurrent.visitor.visitor.impl.Parent - 老师信息 姓名：泽东 班级：三年四班 级别：实习教师
+INFO main com.concurrent.visitor.AppTest - 
+校长视角访问：
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：谢飞机 班级：一年一班
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：windy 班级：一年一班
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：大毛 班级：二年三班
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：Shing 班级：三年四班
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：BK 班级：一年一班 升学率：38.58
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：娜娜Goddess 班级：一年一班 升学率：32.51
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：dangdang 班级：二年三班 升学率：10.81
+INFO main com.concurrent.visitor.visitor.impl.Principal - 学生信息 姓名：泽东 班级：三年四班 升学率：70.3

@@ -1,0 +1,5 @@
+INFO main com.concurrent.strategy.AppTest - 测试结果：直减优惠后金额 90
+INFO main com.concurrent.strategy.AppTest - 测试结果：满减优惠后金额 90
+INFO main com.concurrent.strategy.AppTest - 测试结果：直减优惠后金额 90
+INFO main com.concurrent.strategy.AppTest - 测试结果：折扣9折后金额 90.00
+INFO main com.concurrent.strategy.AppTest - 测试结果：n元购优惠后金额 90
